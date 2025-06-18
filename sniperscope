@@ -1,0 +1,25 @@
+{
+  "searchPattern": "CC 3D 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 3F 33 33 13 40 00 00 B0 3F 00 00 80 3F",
+  "operations": [
+    {
+      "offset": 8,
+      "type": "bytes",
+      "value": "80"
+    },
+    {
+      "offset": 9,
+      "type": "bytes",
+      "value": "3F"
+    },
+    {
+      "offset": 24,
+      "type": "bytes",
+      "value": "00"
+    },
+    {
+      "offset": 25,
+      "type": "bytes",
+      "value": "00"
+    }
+  ]
+}
